@@ -51,7 +51,7 @@ public class StoryManager : MonoBehaviour
     //Harus Diubah Manual
     private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
-        if (scene.name == "TestingMechanics")
+        if (scene.name == "House (Act2)")
         {
             PergiKeRumahKorban();
         }
@@ -97,12 +97,11 @@ public class StoryManager : MonoBehaviour
 
     public void DoneKaburDariTKPNaikMobil()
     {
-        //SceneTextKetikaMasukMobil.OnInteract();
+        
 
-        SceneManager.LoadScene("CityAreaScene");
+        SceneManager.LoadScene("House (Act2)");
 
-        //SceneManager.LoadScene("CityAreaScene");
-        //PergiKeRumahKorban();
+       
     }
 
     public void PergiKeRumahKorban()
