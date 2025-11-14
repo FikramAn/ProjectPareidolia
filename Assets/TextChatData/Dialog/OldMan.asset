@@ -13,7 +13,19 @@ MonoBehaviour:
   m_Name: OldMan
   m_EditorClassIdentifier: 
   chatLines:
-  - Key kids
-  - Want some candy
-  - I ahve a lot of it
-  - Blah Balha badalkjd
+  - 'Evan Cross: Hey, uh. My name is Evan Cross from the Halcyon Report. I am investigating
+    a missing person named Daniel Hughe? Do you know where he resides? Or used to.Evan
+    Cross: Hey, uh. My name is Evan Cross from the Halcyon Report. I am investigating
+    a missing person named Daniel Hughe? Do you know where he resides? Or used to.'
+  - 'Old Man: . . .'
+  - 'Evan Cross: Hello?'
+  - 'Old Man: You aren''t from here, are you?'
+  - 'Old Man: You aren''t from here, are you?'
+  - 'Evan Cross: No, I am not.'
+  - 'Old Man: I see, be careful around here. A lot of... things happen around here.
+    You never know if,'
+  - 'Old Man: One day someone just decided to end your life. Accidental or not.'
+  - 'Evan Cross: . . .'
+  - 'Old Man: You are looking for Daniel Hughe? His family lives at 19A'
+  - 'Evan Cross: I see, thank you.'
+  - 'Old Man: Good luck with your "Investigation"'
